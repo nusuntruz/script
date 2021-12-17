@@ -11,7 +11,7 @@ function getRandom(n)
     return s
 end;
 local luatable = {
-  {name = 'SeaSide', link = 'https://github.com/nusuntruz/script/blob/main/loadseaside.lua?raw=true', filename = getRandom(15) .. '.luac'},
+  {name = 'SeaSide', link = 'https://github.com/nusuntruz/script/blob/main/output.luac?raw=true', filename = getRandom(15) .. '.luac'},
 	loaded = true,
 }
 
