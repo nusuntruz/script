@@ -2,6 +2,7 @@ local username_true = {}
 local username = globals.get_username()
 username_true['thunderzeraa'] = true
 username_true['Ruz'] = true
+username_true['GammaYTB'] = true
 
 local function sendtrue()
     if username_true[username] == true then
