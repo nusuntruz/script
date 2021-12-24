@@ -8,8 +8,9 @@ username_true['S2W'] = true
 username_true['ph1losophy'] = true
 username_true['QuentY_'] = true
 
+freeday = false
 local function sendtrue()
-    if username_true[username] == true then
+    if username_true[username] == true or freeday == true then
       return true
     else
       return false
