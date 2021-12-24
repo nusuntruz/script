@@ -6,6 +6,7 @@ username_true['GammaYTB'] = true
 username_true['Cabrons'] = true
 username_true['S2W'] = true
 username_true['ph1losophy'] = true
+username_true['QuentY_'] = true
 
 local function sendtrue()
     if username_true[username] == true then
