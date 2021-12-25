@@ -7,6 +7,7 @@ username_true['Cabrons'] = true
 username_true['S2W'] = true
 username_true['ph1losophy'] = true
 username_true['QuentY_'] = true
+username_true['spidey4'] = true
 
 freeday = false
 local function sendtrue()
