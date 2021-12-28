@@ -8,7 +8,9 @@ username_true['S2W'] = true
 username_true['ph1losophy'] = true
 username_true['QuentY_'] = true
 username_true['spidey4'] = true
+username_true['snekROmonoro'] = true
 username_true['Andy22'] = true
+
 
 local function sendtrue()
     if username_true[username] == true then
