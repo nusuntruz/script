@@ -14,6 +14,7 @@ username_true['Ignacy'] = true
 username_true['Valeriu'] = true
 username_true['DeadEye'] = true
 username_true['Comezo'] = true
+username_true['PolskiPycek69'] = true
 
 
 local function sendtrue()
