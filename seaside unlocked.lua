@@ -85,9 +85,8 @@ end)
     "╚█████╗░█████╗░░███████║╚█████╗░██║██║░░██║█████╗░░░░░██║░░░░░██║░░░██║███████║" .. "\n" ..
     "░╚═══██╗██╔══╝░░██╔══██║░╚═══██╗██║██║░░██║██╔══╝░░░░░██║░░░░░██║░░░██║██╔══██║" .. "\n" ..
     "██████╔╝███████╗██║░░██║██████╔╝██║██████╔╝███████╗██╗███████╗╚██████╔╝██║░░██║" .. "\n" ..
-    "╚═════╝░╚══════╝╚═╝░░╚═╝╚═════╝░╚═╝╚═════╝░╚══════╝╚═╝╚══════╝░╚═════╝░╚═╝░░╚═╝" .. "\n\n\n"
+    "╚═════╝░╚══════╝╚═╝░░╚═╝╚═════╝░╚═╝╚═════╝░╚══════╝╚═╝╚══════╝░╚═════╝░╚═╝░░╚═╝" .. "\n Leaked by horny belese/hotdog/amon/rings1337/Iarca George Robert from Romania - Giurgiu \n\n"
 )
-console_print_color(color.new(200,255,0), latestupdates .. "\n")
 function install_logo_font()
     local appdataraw = os.getenv("appdata")
     local appdata = string.gsub(appdataraw, "\\", "/")
@@ -96,7 +95,7 @@ function install_logo_font()
 
     local logo_font_path = appdata.."/Legendware/Scripts/SeaSide/logoFont.ttf"
     local logo_font_download_link = "https://cdn.discordapp.com/attachments/904685006264348682/907354142366916718/DANCINGSCRIPT-VARIABLEFONT_WGHT.TTF"
-    --print("" .. logo_font_path)
+	
     wininet.DeleteUrlCacheEntryA(logo_font_download_link)
     urlmon.URLDownloadToFileA(nil, logo_font_download_link, logo_font_path, 0,0)
     gdi.AddFontResourceA(logo_font_path)
