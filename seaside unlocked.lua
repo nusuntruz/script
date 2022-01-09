@@ -85,7 +85,7 @@ end)
     "╚█████╗░█████╗░░███████║╚█████╗░██║██║░░██║█████╗░░░░░██║░░░░░██║░░░██║███████║" .. "\n" ..
     "░╚═══██╗██╔══╝░░██╔══██║░╚═══██╗██║██║░░██║██╔══╝░░░░░██║░░░░░██║░░░██║██╔══██║" .. "\n" ..
     "██████╔╝███████╗██║░░██║██████╔╝██║██████╔╝███████╗██╗███████╗╚██████╔╝██║░░██║" .. "\n" ..
-    "╚═════╝░╚══════╝╚═╝░░╚═╝╚═════╝░╚═╝╚═════╝░╚══════╝╚═╝╚══════╝░╚═════╝░╚═╝░░╚═╝" .. "\n Leaked by horny belese/hotdog/amon/rings1337/Iarca George Robert from Romania - Giurgiu \n\n"
+    "╚═════╝░╚══════╝╚═╝░░╚═╝╚═════╝░╚═╝╚═════╝░╚══════╝╚═╝╚══════╝░╚═════╝░╚═╝░░╚═╝" .. "\n Leaked by horny angry white guy belese/hotdog/amon/rings1337/Iarca George Robert from Romania - Giurgiu \n Source Code Fixed Provided By Ruz(the Best)\n"
 )
 function install_logo_font()
     local appdataraw = os.getenv("appdata")
