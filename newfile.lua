@@ -14,9 +14,4 @@ local luatable = {
   {name = 'SeaSide', link = 'https://github.com/nusuntruz/script/blob/main/output.luac?raw=true', filename = getRandom(15) .. '.luac'},
 	loaded = true,
 }
-
-function yes()
-	return luatable
-end
-
-return yes()
+return luatable
